@@ -1,7 +1,7 @@
 ---
-title: 'Dernière exploration du `{tidyverse}` avec le package `{purrr}`'
+title: 'Analyse descriptive univariée sur les données de `{palmerpenguins}`'  
 author: "Marie VAUGOYEAU"
-date: "02/05/2023"
+date: "27/06/2023"
 output:
   pdf_document:
     toc: yes
